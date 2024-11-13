@@ -1,18 +1,16 @@
 # Login Flutter
 
-Creating a login project with Flutter
+Progetto di login con Flutter
 
 ## Image
 
-In IOS Frame
+Con l'IOS Frame
 
 <p float="left">
   <img src="image/1.png"  />
 </p>
 
-## Developers
-
-Support us on Instagram. ❤️
+## Developers/Credits
 
 Programmer: [M_programmer_H](https://instagram.com/M_programmer_H)
 
