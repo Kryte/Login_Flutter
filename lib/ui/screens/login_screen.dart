@@ -36,7 +36,7 @@ class _LoginScreenState extends State<LoginScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Log In',
+                  'Ciao :)',
                   style: TextStyle(
                     color: Color(0xFF755DC1),
                     fontSize: 27,
@@ -130,7 +130,7 @@ class _LoginScreenState extends State<LoginScreen> {
                         backgroundColor: const Color(0xFF9F7BFF),
                       ),
                       child: const Text(
-                        'Sign In',
+                        'Accedi',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 15,
@@ -147,7 +147,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 Row(
                   children: [
                     const Text(
-                      'Don’t have an account?',
+                      'Non hai un account?',
                       style: TextStyle(
                         color: Color(0xFF837E93),
                         fontSize: 13,
@@ -165,7 +165,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             curve: Curves.ease);
                       },
                       child: const Text(
-                        'Sign Up',
+                        'Registrati',
                         style: TextStyle(
                           color: Color(0xFF755DC1),
                           fontSize: 13,
@@ -180,7 +180,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   height: 15,
                 ),
                 const Text(
-                  'Forget Password?',
+                  'Password dimenticata?',
                   style: TextStyle(
                     color: Color(0xFF755DC1),
                     fontSize: 13,
