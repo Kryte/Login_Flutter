@@ -37,7 +37,7 @@ class _SingUpScreenState extends State<SingUpScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Sign up',
+                  'Registrati',
                   style: TextStyle(
                     color: Color(0xFF755DC1),
                     fontSize: 27,
@@ -198,7 +198,7 @@ class _SingUpScreenState extends State<SingUpScreen> {
                         backgroundColor: const Color(0xFF9F7BFF),
                       ),
                       child: const Text(
-                        'Create account',
+                        'Crea Account',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 15,
@@ -215,7 +215,7 @@ class _SingUpScreenState extends State<SingUpScreen> {
                 Row(
                   children: [
                     const Text(
-                      ' have an account?',
+                      ' Sei già registrato?',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: Color(0xFF837E93),
@@ -234,7 +234,7 @@ class _SingUpScreenState extends State<SingUpScreen> {
                             curve: Curves.ease);
                       },
                       child: const Text(
-                        'Log In ',
+                        'Accedi ',
                         style: TextStyle(
                           color: Color(0xFF755DC1),
                           fontSize: 13,

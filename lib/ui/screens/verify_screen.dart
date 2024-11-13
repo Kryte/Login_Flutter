@@ -38,7 +38,7 @@ class _VerifyScreenState extends State<VerifyScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Confirm the code\n',
+                  'Codice di verifica\n',
                   style: TextStyle(
                     color: Color(0xFF755DC1),
                     fontSize: 25,
@@ -80,7 +80,7 @@ class _VerifyScreenState extends State<VerifyScreen> {
                         backgroundColor: const Color(0xFF9F7BFF),
                       ),
                       child: const Text(
-                        'confirm',
+                        'conferma',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 15,
@@ -98,7 +98,7 @@ class _VerifyScreenState extends State<VerifyScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     const Text(
-                      'Resend  ',
+                      'Riprova  ',
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         color: Color(0xFF755DC1),
@@ -148,7 +148,7 @@ class _VerifyScreenState extends State<VerifyScreen> {
                     curve: Curves.ease);
               },
               child: const Text(
-                'A 6-digit verification code has been sent to info@aidendesign.com',
+                'Un codice a 6 cifre è stato mandato alla tua email.',
                 style: TextStyle(
                   color: Color(0xFF837E93),
                   fontSize: 11,
